@@ -22,12 +22,6 @@ This project is a fundamental building block for understanding digital design an
 - [ModelSim](https://www.intel.com/content/www/us/en/software-kit/750368/modelsim-intel-fpgas-standard-edition-software-version-18-1.html)
 - Basic knowledge of Verilog and digital circuit design
 
-1. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/5bit-alu-design.git
-   cd 5bit-alu-design
-   ```
-
 2. **Open the Project in Quartus Prime Lite**
    - Launch Quartus Prime Lite.
    - Create a new project and add the Verilog files (`FullAdder.v`, `Adder.v`, `FullSubtractor.v`, `Subtractor.v`, `multiplier_5bit.v`, `RegisterFile.v`, `ALU.v`, `TopLevel.v`) to the project.
